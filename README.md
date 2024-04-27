@@ -8,7 +8,7 @@
 - 🌱 I’m currently attending ASU studying GIT and Focusing in front-end development!
 - 📫 My Current Behance Profile: https://www.behance.net/mengkewang1
 - 😄 Skills: JavaScript, TypeScript, HTML/CSS, Python, PHP, Vue.js, React.js, Node.js, Bootstrap
-- 💻 Projects:  Forum Project Website(Vue3, TypeScript, Node.js)
-               Full-stack Mobile Commerce Website(WeChat Mini Program, php)
-               KnowledgePoint Organizer App(React,Supabase)
+- 💻 Projects: 1. Forum Project Website(Vue3, TypeScript, Node.js)
+               2. Full-stack Mobile Commerce Website(WeChat Mini Program, php)
+               3. KnowledgePoint Organizer App(React,Supabase)
 
